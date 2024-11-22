@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "producto": "Arepas con Queso",
+        "descripcion": "Deliciosa arepa con queso artesanal.",
+        "imagen": "arepa.jpg",
+        "precio": 2000
+    },
+    {
+        "id": 2,
+        "producto": "Salchipapas",
+        "descripcion": "Deliciosa slachipapa con todas las salsas.",
+        "imagen": "salchipapaSalsa.jpg",
+        "precio": 2500
+    },
+    {
+        "id": 3,
+        "producto": "Pan de Maiz, 8 panes en bolsa",
+        "descripcion": "Ingredientes propios de la regi\u00f3n.",
+        "imagen": "pandemaiz.jpg",
+        "precio": 2000
+    },
+    {
+        "id": 4,
+        "producto": "S\u00e1ndwich",
+        "descripcion": "Con queso y jam\u00f3n.",
+        "imagen": "sandwich.jpg",
+        "precio": 2500
+    }
+]

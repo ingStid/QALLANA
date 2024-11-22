@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Administrador - Login</title>
+    <link rel="stylesheet" href="css/admin.css">
+    <link rel="stylesheet" href="../css/styles.css">
+</head>
+<body>
+    <div class="login-container">
+        <header>
+            <img src="../logo1.png" alt="Logo de la tienda QALLANA" class="logo">
+            <h2>Iniciar Sesión</h2>
+            <a href="../index.html" class="volver-link">
+                <img src="../volverTienda.PNG" alt="Ir al Carrito" class="logo">
+            </a>
+        </header><br>
+        
+        <form id="login-form">
+            <input type="text" id="username" placeholder="Usuario" required>
+            <input type="password" id="password" placeholder="Contraseña" required>
+            <button type="submit">Ingresar</button>
+        </form>
+        <div id="login-error"></div>
+    </div>
+    <script src="js/admin.js"></script>
+</body>
+</html>
